@@ -1,0 +1,1 @@
+# avito-beds2
